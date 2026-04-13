@@ -9,7 +9,7 @@ body {
 /**** Top-Container *****/
 .top-container {
   height: 50px;
-  width: 100vh;
+  width: 100%;
   background-color: antiquewhite;
   padding-top : 13px;
   padding-left : 30px;
@@ -27,7 +27,7 @@ body {
 
 .second-container > img {
   height: 450px;
-  width: 100vh;
+  width: 100%;
   position : relative;
 }
 
@@ -111,6 +111,8 @@ body {
     display: block;
     margin-left: 40%;
   }
+  .fourth-container{
+    display: block;}
 }
 
 
